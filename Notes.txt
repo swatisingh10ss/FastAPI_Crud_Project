@@ -1,0 +1,11 @@
+commands in terminal
+
+virtualenv venv
+source venv/scripts/activate
+pip install uvicorn pymongo fastapi
+python -m uvicorn main:app --reload(to run the main)
+
+
+Install
+
+Mongodb for vs code
